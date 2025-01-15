@@ -1,0 +1,1 @@
+This repository contains a demonstration of unexpected behavior of the + operator in Javascript when used with strings and numbers.The bug.js file shows the unexpected behavior and the bugSolution.js file provides a solution to handle this behavior.
